@@ -1,0 +1,34 @@
+##################################################
+#
+# Chris Tarantl 2017
+# Thanks for the wonderful Lixie Project
+# This is my modification
+#
+##################################################
+
+I like the Lixie Project verya much but I found that
+the Digits are pretty small and 1,5mm Acrylic is hard
+to get.
+
+My first modification was to double the size in order
+to be able to use 3mm Acrylic.
+
+When my single LEDs arrived and I tried to testsolder them
+I found it very painful and so I decided to go a different
+way of creating.
+
+I purchased a Ws2812b strip off Amazon with 66Leds per Meter
+and after some measurements and scaling I ended up with
+digits being .... big.
+
+In the Mod Folder there is a file lixie_cut_strip.ai where
+everything is divided into layers for scaling and creating
+
+Everything is prepared for Laser Cutting black lines and
+engraving red lines on a Trotec laser
+
+I used Plywood 4mm and clear Acrylic 3mm
+The modification does not use any type of pcb and the connection
+of the Digits is completely up to you.
+The only thing to keep in mind is the ordering of the individual led strips
+(as shown in the engraving pattern of the led base)
