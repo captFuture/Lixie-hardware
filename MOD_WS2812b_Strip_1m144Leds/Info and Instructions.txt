@@ -6,25 +6,23 @@
 #
 ##################################################
 
-I like the Lixie Project very much but I found that
-the digits are pretty small and 1,5mm Acrylic was hard
+I like the Lixie Project verya much but I found that
+the Digits are pretty small and 1,5mm Acrylic is hard
 to get.
 
 My first modification was to double the size in order
 to be able to use 3mm Acrylic.
 
-When my single LEDs arrived and I tried to test-solder them
+When my single LEDs arrived and I tried to testsolder them
 I found it very painful and so I decided to go a different
 way of creating.
 
-I purchased a Ws2812b strip off Amazon with 66Leds per Meter
+I purchased a Ws2812b strip off Amazon with 144Leds per Meter
 and after some measurements and scaling I ended up with
-digits being .... big.
+digits being .... small.
 
 In the Mod Folder there is a file lixie_cut_strip.ai where
 everything is divided into layers for scaling and creating
-and 2 copies out of the base file with layout onto an A2 birch
-plywood sheet as well as 810mmx550mm clear Acrylic with 3mm
 
 Everything is prepared for Laser Cutting black lines and
 engraving red lines on a Trotec laser
